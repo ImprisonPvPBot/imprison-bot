@@ -227,7 +227,7 @@
             rulesLink: "http://kombatpvp.wix.com/kombatpvp#!forum/trbz5",
             themeLink: null,
             fbLink: null,
-            youtubeLink: "https://www.youtube.com/user/MineplexOfficial",
+            youtubeLink: "https://www.youtube.com/channel/UCKX__7MuKgkym4ydezS4iHQ",
             website: "http://www.kombatpvpnetwork.tk",
             intervalMessages: [],
             messageInterval: 5,
